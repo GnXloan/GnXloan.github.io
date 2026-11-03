@@ -27,9 +27,9 @@ const participants: Participant[] = [
     id: 2,
     name: "Loan Badey",
     role: "UX & Service Designer",
-    image: "/img/pro_pict.jpg",
-    bio: "Placeholder",
-    email: "loan@example.com",
+    image: "/img/loan_pp.jpeg",
+    bio: "I’ll help shape the portfolio into a clear, thoughtful experience that feels easy to navigate and true to our project.",
+    email: "lob00009@laurea.fi",
   },
   {
     id: 3,
