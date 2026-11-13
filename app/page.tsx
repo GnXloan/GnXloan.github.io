@@ -51,8 +51,8 @@ const participants: Participant[] = [
     id: 5,
     name: "Krizztina",
     role: "Content Strategist",
-    image: "/img/pro_pict.jpg",
-    bio: "Placeholder",
+    image: "/img/kristina_pp.jpg",
+    bio: "Kristina Smolenskaia, second year student in ”Business Information Technology' education program, specializing in 'Digital Service Development'.",
     email: "krizztina@example.com",
   },
 ];
